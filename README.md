@@ -45,11 +45,5 @@ Dane są przechowywane w formacie JSON:
 - Kliknij "Add", aby zapisać dane.
 - Użyj "Search", aby znaleźć zapisane hasło dla danej strony.
 
-## Zrzut ekranu
 
-![Zrzut ekranu](./screenshot.png)
-
-## Autor
-
-[Twoje Imię] – [Twoja Strona lub GitHub]
 
