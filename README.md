@@ -40,7 +40,7 @@ Dane są przechowywane w formacie JSON:
 ## Przykładowe użycie
 
 - Wpisz nazwę strony.
-- Podaj adres e-mail (domyślnie ustawiony w kodzie).
+- Podaj adres e-mail (domyślnie ustawiony w kodzie) Zmień zmienną `MAIL` która znajduje się na górze kodu na swój email.
 - Wygeneruj hasło lub wpisz własne.
 - Kliknij "Add", aby zapisać dane.
 - Użyj "Search", aby znaleźć zapisane hasło dla danej strony.
