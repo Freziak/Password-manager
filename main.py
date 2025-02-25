@@ -4,7 +4,7 @@ from random import randint, choice
 from tkinter import messagebox
 
 import json
-MAIL = "danielmorawski04@gmail.com"
+MAIL = "yourmail@gmail.com"
 
 #Generate password
 def generate_password():
